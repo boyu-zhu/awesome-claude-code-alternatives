@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of open-source reimplementations of [Claude Code](https://docs.anthropic.com/en/docs/claude-code), sorted by stars.
+> A curated list of open-source reimplementations of [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
 ---
 
